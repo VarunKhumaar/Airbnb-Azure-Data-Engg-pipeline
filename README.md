@@ -1,4 +1,4 @@
-# Sydney Airbnb-Azure-Data-Engg-pipeline
+# Sydney Airbnb | Azure-Data-Engg-pipeline
 
 Architecture:
 ![image](https://github.com/VarunKhumaar/Airbnb-Azure-Data-Engg-pipeline/assets/67249540/e81b4b78-bfce-4f03-8b55-51393c7e31a0)
